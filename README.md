@@ -10,7 +10,7 @@ Output:
 - passwd_long.lst
 - unknown.lst. <br>
 <br>
-note: short < 8 char
+note: short < 8 char <br>
 <br>
-For Windows 7 - 10 only
-[download x64](https://github.com/nalbe/PasswdParser/releases/download/1.0/PasswdParser.exe)
+For Windows 7 - 10 only <br>
+[download x64](https://github.com/nalbe/PasswdParser/releases/download/1.0/PasswdParser.exe) <br>
