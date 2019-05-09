@@ -12,4 +12,5 @@ Output:
 <br>
 note: short < 8 char
 <br>
+For Windows 7 - 10 only
 [download for x64](https://github.com/nalbe/PasswdParser/releases/download/1.0/PasswdParser.exe)
