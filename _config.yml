@@ -5,7 +5,7 @@ plugins:
 
 
 webmaster_verifications:
-  google: <meta name="google-site-verification" content="c0vji2mXKQtX1hZohSkSR2u3iuE9krQpc5cfRpn4w3s" />
+  google: c0vji2mXKQtX1hZohSkSR2u3iuE9krQpc5cfRpn4w3s
   bing: 1234
   alexa: 1234
   yandex: 1234
