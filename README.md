@@ -1,3 +1,4 @@
+[homepage](https://nalbe.github.io)
 <br>
 Parse (sort + merge) *.txt | *.lst files. <br>
 String format: email\<delim\>password | login\<delim\>password. <br>
@@ -8,7 +9,7 @@ Output:
 - passwd_short.lst
 - passwd_long.lst
 - unknown.lst. <br>
-<br>
+<!-- -->
 note: short < 8 char <br>
 <br>
 For Windows 7 - 10 only <br>
