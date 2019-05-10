@@ -10,7 +10,7 @@ Output:
 - passwd_short.lst
 - passwd_long.lst
 - unknown.lst. 
-</ul>
+
 note: short < 8 char
 <br><br>
 For Windows 7 - 10
