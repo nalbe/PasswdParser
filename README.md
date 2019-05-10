@@ -9,7 +9,7 @@ Output:
 - logins_long.lst
 - passwd_short.lst
 - passwd_long.lst
-- unknown.lst. 
+- unknown.lst
 
 note: short < 8 char
 <br><br>
