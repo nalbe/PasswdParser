@@ -5,7 +5,6 @@ Parse (sort + merge) *.txt | *.lst files.
 String format: email\<delim\>password | login\<delim\>password.
 <br><br>
 Output:
-<ul>
 - logins_short.lst
 - logins_long.lst
 - passwd_short.lst
